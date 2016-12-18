@@ -26,8 +26,14 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+#-------------------------------------------------------------------------------------------
+#New Gems installed by me
+#-------------------------------------------------------------------------------------------
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.3.6'
+gem "paperclip", "~> 5.0.0"
+#-------------------------------------------------------------------------------------------
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
